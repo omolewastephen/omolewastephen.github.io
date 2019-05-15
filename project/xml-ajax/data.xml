@@ -1,0 +1,63 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<Student>
+  <person>
+    <name>Joe Walnes</name>
+    <department>Computer Science</department>
+    <address>2, Sarah Jones Avenue</address>
+    <state>Califonia </state>
+  </person>
+  <person>
+    <name>John Doe</name>
+    <department>Mechanical Engineering</department>
+    <address>456, North way, building 16</address>
+    <state>New York </state>
+  </person>
+  <person>
+    <name>Stephen Hawkins</name>
+    <department> Computer Science </department>
+    <address>245N Allison Avenue</address>
+    <state>Los Angeles</state>
+  </person>
+  <person>
+    <name>Lewa Stephen</name>
+    <department>Business Administration</department>
+    <address>23 -34 John Silly Road</address>
+    <state>Texas</state>
+  </person>
+  <person>
+    <name>Bukola Oke</name>
+    <department>Marketing</department>
+    <address>345 Long Bull Avenue</address>
+    <state>Florida</state>
+  </person>
+  <person>
+    <name>Joshua Walls</name>
+    <department>Nursing</department>
+    <address>84 Lakeview Lane, Stillwater</address>
+    <state>Alabama </state>
+  </person>
+  <person>
+    <name>Larry Page</name>
+    <department>Computer Science</department>
+    <address>9027 New Saddle Ave. Chandler</address>
+    <state>Alaska </state>
+  </person>
+  <person>
+    <name>Lampard Larsy</name>
+    <department>Civil Engineering</department>
+    <address>7521 Hanover St. Lynn</address>
+    <state>Arizona </state>
+  </person>
+  <person>
+    <name>Mick Wemp</name>
+    <department> Computer Enginnering </department>
+    <address>9027 New Saddle Ave. Chandler</address>
+    <state>Phoenix </state>
+  </person>
+  <person>
+    <name>Wales Bareth</name>
+    <department>Office Technology Management</department>
+    <address>1234-384-456</address>
+    <state>Birmingham </state>
+  </person>
+</Student>
